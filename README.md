@@ -4,7 +4,7 @@
 
 <!-- I'm a Software Engineer, Content Creator, and Community Engineer who currently works as a Developer Advocate at [Commerce Layer](https://commercelayer.io). I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others. I create technical content (on my [Blog](https://bolajiayodeji.com/), [Newsletter](https://bawd.bolajiayodeji.com), and [YouTube](https://www.youtube.com/c/bolajiayodeji)), build useful [open-source projects](https://github.com/BolajiAyodeji), speak at some meetups/conferences, build technical communities... -->
 
-I'm a Software Engineer 
+I'm a Software Engineer and a Technical Writer that enjoys creating user-friendly responsive web pages, sharing knowledge, documentation, web engineering, learning about new technologies and others. 
 
 **Here's a quick summary about me**:
 
