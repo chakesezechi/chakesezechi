@@ -10,7 +10,7 @@
 
 - 😊 Pronouns: He/him
 <!-- - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022. -->
-- 🌱 I’m currently learning Data Analysis.
+- 🌱 I’m currently learning Data Analysis (with EDA and Feature Engineering).
 <!-- - 😊 I’m seeking help with open source projects, hackathons, internships, and entry-level opportunities. -->
 - 💼 Job interests: Data Analytics Specialist, Data Engineering, Data Architect.
 - 📫 You can contact me by emailing zechirayjr@yahoo.com or zechirayjr@gmail.com.
