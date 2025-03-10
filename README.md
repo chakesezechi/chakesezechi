@@ -4,15 +4,15 @@
 
 <!-- I'm a Software Engineer, Content Creator, and Community Engineer who currently works as a Developer Advocate at [Commerce Layer](https://commercelayer.io). I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others. I create technical content (on my [Blog](https://bolajiayodeji.com/), [Newsletter](https://bawd.bolajiayodeji.com), and [YouTube](https://www.youtube.com/c/bolajiayodeji)), build useful [open-source projects](https://github.com/BolajiAyodeji), speak at some meetups/conferences, build technical communities... -->
 
-I'm a Software Engineer and a Technical Writer that enjoys creating user-friendly responsive web pages, sharing knowledge, documentation, web engineering, learning about new technologies and others. 
+<!-- I'm a Software Engineer and Technical Writer who enjoys creating user-friendly responsive web pages, sharing knowledge, documentation, and web engineering, and learning about new technologies. -->
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs.
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+<!-- - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022. -->
+- 🌱 I’m currently learning Data Analysis.
+<!-- - 😊 I’m seeking help with open source projects, hackathons, internships, and entry-level opportunities. -->
+- 💼 Job interests: Data Analysis Specialist, Data Engineering, Data Architect (Intern or Junior level).
 - 📫 You can contact me by emailing zechirayjr@yahoo.com or zechirayjr@gmail.com.
 <!-- - 📫 You can [view my resume](#) and contact me by emailing zechirayjr@gmail.com. -->
 
