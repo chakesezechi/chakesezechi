@@ -12,7 +12,7 @@
 <!-- - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022. -->
 - 🌱 I’m currently learning Data Analysis.
 <!-- - 😊 I’m seeking help with open source projects, hackathons, internships, and entry-level opportunities. -->
-- 💼 Job interests: Data Analysis Specialist, Data Engineering, Data Architect (Intern or Junior level).
+- 💼 Job interests: Data Analytics Specialist, Data Engineering, Data Architect.
 - 📫 You can contact me by emailing zechirayjr@yahoo.com or zechirayjr@gmail.com.
 <!-- - 📫 You can [view my resume](#) and contact me by emailing zechirayjr@gmail.com. -->
 
